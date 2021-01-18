@@ -1,0 +1,21 @@
+{
+  "name": "Myname",
+  "email": "myemail@gmail.com",
+  "car": [
+    {
+      "carId": "99",
+      "carName": "mycar",
+      "carBurant": "diesel"
+    },
+    {
+      "carId": "88",
+      "carName": "mycar2",
+      "carBurant": "diesel"
+    },
+    {
+      "carId": "77",
+      "carName": "mycar3",
+      "carBurant": "diesel"
+    }
+  ]
+}
